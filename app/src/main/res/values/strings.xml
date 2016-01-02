@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Mi Band Geocaching</string>
+    <string name="title_activity_reciever">MiBand Geocaching</string>
+    <string name="set_band_colour">Set Band LED Color</string>
+    <string name="set_MAC_address">Set Mi Band MAC address</string>
+    <string name="set_MAC_address_ok">MAC address set correctly</string>
+    <string name="set_MAC_address_error">Invalid MAC address</string>
+    <string name="set_MAC_address_removed">MAC address removed</string>
+    <string name="alert_MAC_address">Mi Band not paired - enter MAC</string>
+</resources>
